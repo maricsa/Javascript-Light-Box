@@ -1,0 +1,17 @@
+
+body {
+	margin: 0 auto;
+	background-color: #d9d9d9;
+	text-align: center;
+}
+
+img{
+	display: none;
+	max-height: 400px;
+	max-width: 600px;
+	padding: 200px;
+	position: relative;
+	right: 400px;
+}
+
+
